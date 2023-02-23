@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using src.Models;
 
+
+
+// just for tests 
+
 namespace src.Controllers
 {
     public class HomeController : Controller
